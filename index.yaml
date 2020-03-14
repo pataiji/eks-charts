@@ -101,6 +101,29 @@ entries:
     created: "2020-03-13T20:44:44.212907805Z"
     description: App Mesh Inject Helm chart for Kubernetes
     digest: 12965b4c69020733a45390ba77c439e548e173286c79788d54deedf5acf70ac9
+    home: https://github.com/pataiji/eks-charts
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - eks
+    - appmesh
+    maintainers:
+    - email: nckturner@users.noreply.github.com
+      name: Nicholas Turner
+      url: https://github.com/nckturner
+    - email: stefanprodan@users.noreply.github.com
+      name: Stefan Prodan
+      url: https://github.com/stefanprodan
+    name: appmesh-inject
+    sources:
+    - https://github.com/pataiji/eks-charts
+    urls:
+    - https://pataiji.github.io/eks-charts/appmesh-inject-0.11.1.tgz
+    version: 0.11.1
+  - apiVersion: v1
+    appVersion: 0.4.0
+    created: "2020-03-13T20:44:44.212907805Z"
+    description: App Mesh Inject Helm chart for Kubernetes
+    digest: 12965b4c69020733a45390ba77c439e548e173286c79788d54deedf5acf70ac9
     home: https://github.com/aws/eks-charts
     icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
     keywords:
